@@ -1,0 +1,6 @@
+[markdown语法](https://www.cnblogs.com/liugang-vip/p/6337580.html) 
+[kafka简介](https://www.cnblogs.com/likehua/p/3999538.html)
+[MQ消息简介](https://blog.csdn.net/kingcat666/article/details/78660535)
+[JMS(Java消息服务)](https://www.cnblogs.com/chenpi/p/5559349.html)
+[Java消息队列--JMS概述](https://www.cnblogs.com/jaycekon/p/6220200.html)
+[ActiveMQ](https://www.jianshu.com/p/ecdc6eab554c)

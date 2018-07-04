@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
+title: 。。。。
+subtitle: 学海无涯，止于至善
+description: 学海无涯，止于至善
+keywords: 勤学如春起之苗，不见其增，日有所长。缀学如磨刀之石，不见其损，日有所亏。
+author: 张博
 language:
 timezone:
 
@@ -81,3 +81,14 @@ deploy:
   type: git
   repo: https://github.com/thymelea/thymelea.github.io.git
   branch: master
+# Extensions  #插件和主题
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+#RSS订阅
+plugin:
+- hexo-generator-feed
+#Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
